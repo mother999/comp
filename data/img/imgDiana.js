@@ -38,6 +38,7 @@ SugarCube.setup.imgDiana = {
     "pussy":["pics/diana/pussy.jpg"],
     "spread":["pics/diana/spread.jpg"],
     "bendover":["pics/diana/bendover.jpg"],
+    "bentover":["pics/diana/bentover.jpg"],
     "strapon":["pics/diana/strapon.jpg"],
     "dildo":["pics/diana/dildo.jpg"],
     "bimbo":["pics/diana/bimbo.jpg"],
